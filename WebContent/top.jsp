@@ -36,19 +36,14 @@ MemberDto dto = (MemberDto)session.getAttribute("member");
     <li class="nav-item">
       <a class="nav-link" href="logout.nhn">로그아웃</a>
     </li>
-<% } %>
+
     <li class="nav-item">
-      <a class="nav-link" href="search.nhn">날씨 검색</a>
+      <a class="nav-link" href="search.nhn">음식 선택하기</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" href="food.nhn">맛집 검색</a>
     </li>
-     <li class="nav-item">
-      <a class="nav-link" href="movie.nhn">영화 랭킹</a>
-    </li>
-     <li class="nav-item">
-      <a class="nav-link" href="hugi.nhn">영화 후기</a>
-    </li>
+<% } %>
   </ul>
 </nav>
 

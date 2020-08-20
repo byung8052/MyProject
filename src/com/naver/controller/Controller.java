@@ -49,16 +49,18 @@ public class Controller extends HttpServlet {
 			site = "food.jsp";
 		} else if (uri.equals("foodok.nhn")) {
 			site = "FoodServlet";
-		} else if (uri.equals("movie.nhn")) {
-			site = "movie.jsp";
+		} else if (uri.equals("korea.nhn")) {
+			site = "korea.jsp";
 		} else if (uri.equals("movie2.nhn")) {
 			site = "MovieServlet2";
 		} else if (uri.equals("movieok.nhn")) {
 			site = "MovieServlet";
 		} else if (uri.equals("hugi.nhn")) {
-			site = "hugi.jsp";
+			site = "hugiPrintServlet";
 		} else if (uri.equals("hugiok.nhn")) {
 			site = "HugiServlet";
+		} else if (uri.equals("hugidetail.nhn")) {
+			site = "HugidetailServlet";
 		} else {
 			site = "404.jsp";
 			System.out.println("error");

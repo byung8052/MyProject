@@ -16,7 +16,7 @@
 	<p class="text-center">지역을 입력 하세요(블로그 검색)</p>
 	
     <div class="form-group input-group">
-        <input id="search" name="search" class="form-control" placeholder="부산" type="text" value="">
+        <input id="search" name="search" class="form-control" placeholder="" type="text" value="">
         
     </div> <!-- form-group// -->                                   
     <div class="form-group">
