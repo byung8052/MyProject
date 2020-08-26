@@ -13,7 +13,7 @@
 <div class="card bg-light">
 <article class="card-body mx-auto" style="max-width: 400px;">
 	<h4 class="card-title mt-3 text-center">맛집 검색</h4>
-	<p class="text-center">지역을 입력 하세요(블로그 검색)</p>
+	<p class="text-center">지역과 찾고 싶은 음식을 입력 하세요(블로그 검색)</p>
 	
     <div class="form-group input-group">
         <input id="search" name="search" class="form-control" placeholder="" type="text" value="">

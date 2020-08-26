@@ -82,10 +82,10 @@ body{
     </thead>
     <tbody>
         <td><a href="korea.nhn">이동</a></td>
-        <td><a href="">이동</a></td>
-        <td><a href="">이동</a></td>
-        <td><a href="">이동</a></td>
-        <td><a href="">이동</a></td>
+        <td><a href="china.nhn">이동</a></td>
+        <td><a href="japan.nhn">이동</a></td>
+        <td><a href="bunsik.nhn">이동</a></td>
+        <td><a href="fastfood.nhn">이동</a></td>
       </tr>
 
     
